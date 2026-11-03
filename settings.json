@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "CHAPPAL_KHANE_WALA_BINOD",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.site",
+    "ip": "Chappalsmp.mcsh.gg",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "BINODBSDK"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,9 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium Server? https://discord.gg/VRMUnDkf95"
-      ]
+        "Subscribe to FactCraftGG!",
+        "Hi Everyone"
     },
     "chat-log": true,
     "auto-reconnect": true,
